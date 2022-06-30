@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronit Jaiswal⚡</h1>
 <h3 align="center">A CHE Sophomore who loves exploring new field and loves interacting with people. Frontend Developer❤️</h3>
-<img align="right" alt="Coding" width="350" src="https://media-exp1.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=1658361600&v=beta&t=rEc4uxW1497NG-23cfen3JZFDYbpNvXDu5v5OpFiMQw"
+<img align="right" alt="Coding" width="300" src="https://media-exp1.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=1658361600&v=beta&t=rEc4uxW1497NG-23cfen3JZFDYbpNvXDu5v5OpFiMQw"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronitkx" alt="ronitkx" /></a> </p>
 
